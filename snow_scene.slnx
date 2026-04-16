@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="snow_scene\snow_scene.vcxproj" Id="A51F0DB2-7E56-4DAD-9A3B-48F947F87401" />
+</Solution>
